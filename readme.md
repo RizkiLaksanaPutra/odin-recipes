@@ -15,7 +15,7 @@ This project is part of my learning journey with the Odin Project. It includes v
 ## Project Overview
 The Odin Recipes project is a simple website that displays a collection of recipes. Each recipe includes a list of ingredients, step-by-step instructions, and images.
 
-## Technologies Used
+## Languages Used
 - HTML
 
 ## Lessons Learned
