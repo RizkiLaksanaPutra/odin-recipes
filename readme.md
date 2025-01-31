@@ -1,0 +1,29 @@
+# Odin Recipes
+
+Welcome to my Odin Recipes project! This repository showcases my learning journey through the Odin Project. Below, you'll find a summary of what I've accomplished and learned.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Lessons Learned](#lessons-learned)
+- [Future Improvements](#future-improvements)
+
+## Introduction
+This project is part of my learning journey with the Odin Project. It includes various recipes that I have implemented to practice and improve my web development skills.
+
+## Project Overview
+The Odin Recipes project is a simple website that displays a collection of recipes. Each recipe includes a list of ingredients, step-by-step instructions, and images.
+
+## Technologies Used
+- HTML
+
+## Lessons Learned
+Throughout this project, I have learned:
+- How to structure HTML documents
+- Best practices for making semantic code
+
+## Future Improvements
+- Enhance the user interface with CSS and JavaScript features
+
+Thank you for visiting my Odin Recipes project! Feel free to explore the code and provide any feedback.
