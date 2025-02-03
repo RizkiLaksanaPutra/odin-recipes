@@ -1,14 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Odin Recipes</title>
-</head>
-<body>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="./images/icon.png" type="image/x-icon" />
+  </head>
+  <body>
     <h1>Odin Recipes</h1>
-    <a href="./recipes/SkilletChickenBulgogi.html">Skillet Chicken Bulgogi</a>
-    <a href="./recipes/AmericanGoulash.html">Chef John's American Goulash</a>
-    <a href="./recipes/SkilletPorkChops.html">Skillet Pork Chops</a>
-</body>
+    <div id="image-track" data-mouse-down-at="0" data-prev-percentage="0">
+      <a href="./recipes/AmericanGoulash.html" draggable="false">
+        <img
+          src="./images/American Goulash.webp"
+          class="image"
+          draggable="false"
+        />
+        <p>American Goulash</p>
+      </a>
+      <a href="./recipes/ChickenBulgogi.html" draggable="false">
+        <img
+          src="./images/Chicken Bulgogi.jpg"
+          class="image"
+          draggable="false"
+        />
+        <p>Chicken Bulgogi</p>
+      </a>
+      <a href="./recipes/PorkChops.html" draggable="false">
+        <img
+          src="./images/Pork Chops.webp"
+          class="image"
+          draggable="false"
+        />
+        <p>Pork Chops</p>
+      </a>
+    </div>
+    <script src="script.js"></script>
+  </body>
 </html>
