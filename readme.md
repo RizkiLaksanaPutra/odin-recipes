@@ -1,13 +1,6 @@
 # Odin Recipes
 
-Welcome to my Odin Recipes project! This repository showcases my learning journey through the Odin Project. Below, you'll find a summary of what I've accomplished and learned.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Lessons Learned](#lessons-learned)
-- [Future Improvements](#future-improvements)
+Welcome!This repository showcases my learning journey through the Odin Project. Below, you'll find a summary of what I've accomplished and learned.
 
 ## Introduction
 This project is part of my learning journey with the Odin Project. It includes various recipes that I have implemented to practice and improve my web development skills.
