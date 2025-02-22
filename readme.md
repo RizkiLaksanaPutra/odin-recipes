@@ -8,21 +8,15 @@ This project is part of my learning journey with the Odin Project. It includes k
 ## Project Overview
 The Odin Recipes project is a simple website that displays a collection of recipes. Each recipe includes a list of ingredients, step-by-step instructions, and images.
 
-## Technologies Used
+## Languages Used
 - HTML
-- CSS (added styling to enhance the user interface)
-- JavaScript (added interactivity to the website)
+- CSS
+- JavaScript
 
 ## Lessons Learned
 Throughout this project, I have learned:
-- How to structure HTML documents
-- Best practices for making semantic code
+- Basic HTML structure
 - Basic CSS for styling web pages
-- Basic JavaScript for adding interactivity
-
-## Future Improvements
-- Enhance the user interface with more CSS and JavaScript features
-- Add a search functionality to find recipes easily
-- Implement a responsive design for better mobile experience
+- Create a carousel image using JavaScript (this is outside of what TOP (The Odin Project) asks, but I found the JS code on YouTube and wanted to try it)
 
 Thank you for visiting my Odin Recipes project! Feel free to explore the code and provide any feedback.
